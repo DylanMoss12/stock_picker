@@ -1,0 +1,1 @@
+I will be making a method that takes in an array and output an array with the day someone should buy and the stock and the day they should sell for a maximum gain.
